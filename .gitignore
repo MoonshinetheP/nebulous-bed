@@ -1,0 +1,18 @@
+# IDE files
+.idea/
+.vscode/
+
+# Virtual environments
+venv/
+
+# Build artifacts
+build/
+dist/
+target/
+
+# Data and output directories
+Input/
+Output/
+
+# System files
+__pycache__/
